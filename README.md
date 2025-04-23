@@ -17,4 +17,4 @@ This project presents a data-driven analysis of global sanitation access using U
 - `Gokulnath_UNICEF_Report.pdf` – Final export (optional)
 
 ## ✅ Author
-Gokulnath Amarnathraja – MSc Data Analyst  
+Gokulnath Amarnathraja  
