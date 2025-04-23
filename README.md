@@ -2,7 +2,7 @@
 
 This project presents a data-driven analysis of global sanitation access using UNICEF data from 2000 to 2020.
 
-## 📊 Features
+##  Features
 
 - Bar Chart: Top 10 countries by sanitation access
 - Scatterplot: Access vs Sanitation Gap (%)
@@ -10,11 +10,11 @@ This project presents a data-driven analysis of global sanitation access using U
 - World Map: Choropleth showing global disparities
 - Full narrative, insights, and conclusion
 
-## 📁 Files Included
+##  Files Included
 
 - `unicef_report.ipynb` – The full Google Colab notebook
 - `unicef_sanitation_cleaned.csv` – The cleaned dataset
 - `Gokulnath_UNICEF_Report.pdf` – Final export (optional)
 
-## ✅ Author
+##  Author
 Gokulnath Amarnathraja  
